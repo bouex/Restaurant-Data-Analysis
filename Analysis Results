@@ -1,0 +1,51 @@
+📌 Analysis Plan: SQL Questions by Category
+We’ll go step by step, answering one question at a time.
+
+1️⃣ No-Show & Last-Minute Cancellation Analysis
+Goal: Identify and reduce no-shows to improve table utilization.
+
+Q1: What is the overall no-show and cancellation rate?
+📊 Analysis of No-Show & Cancellation Rates
+🔍 Key Findings
+✅ Total Reservations: 100,000 → Good dataset size for reliable insights.
+✅ No-Show Rate: 10.00% → 1 in 10 customers does not show up.
+✅ Cancellation Rate: 15.10% → 1 in 6-7 customers cancels their reservation.
+📌 What This Means for Restaurants
+10% No-Show Rate means restaurants should consider overbooking slightly to compensate for last-minute absences.
+15% Cancellation Rate suggests many customers cancel ahead of time, giving restaurants a chance to fill those spots.
+Some restaurants may charge a deposit or offer discounts for prepayment to reduce no-shows.
+
+Q2: Which restaurants have the highest no-show rates?
+
+Q4: What is the best overbooking strategy based on past cancellations?
+2️⃣ Peak Time Optimization & Table Utilization
+Goal: Identify underutilized time slots and suggest dynamic pricing or promotions.
+
+Q5: What are the busiest and slowest hours for reservations?
+Q6: Which days of the week have the most no-shows?
+Q7: What is the average table occupancy rate per restaurant?
+3️⃣ Repeat Customers vs. One-Time Diners
+Goal: Improve customer retention by identifying valuable diners.
+
+Q8: Who are the top 10 highest-frequency customers?
+Q9: What percentage of customers book more than once?
+Q10: Are VIP customers more likely to return?
+4️⃣ Customer Reviews & Service Quality Insights
+Goal: Understand how service quality affects ratings.
+
+Q11: Do customers who book at peak hours leave lower ratings?
+Q12: What are the most common complaints in negative reviews?
+Q13: Are repeat customers more likely to leave good reviews?
+
+
+
+
+📊 Analysis of No-Show & Cancellation Rates
+🔍 Key Findings
+✅ Total Reservations: 100,000 → Good dataset size for reliable insights.
+✅ No-Show Rate: 10.00% → 1 in 10 customers does not show up.
+✅ Cancellation Rate: 15.10% → 1 in 6-7 customers cancels their reservation.
+📌 What This Means for Restaurants
+10% No-Show Rate means restaurants should consider overbooking slightly to compensate for last-minute absences.
+15% Cancellation Rate suggests many customers cancel ahead of time, giving restaurants a chance to fill those spots.
+Some restaurants may charge a deposit or offer discounts for prepayment to reduce no-shows.
